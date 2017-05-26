@@ -11,7 +11,7 @@ GraphQL Learning/Road Map is an ever evolving document: just like everyone, is c
 ├── Beginner
 │   ├── README - Beginner Learning Map summary and usage.
 │   └── ...
-├── Intermedia - Intermediate Learning Map summary and usage.
+├── Intermediate - Intermediate Learning Map summary and usage.
 │   └── ...
 ├── Advance
 │   ├── README - Advance Learning Map summary and usage.
